@@ -1,0 +1,13 @@
+﻿  Solitario_SergioCardona_1222419.cpp
+C:\Users\chejo\Desktop\SergioU\SegundoCiclo2022\PrograAvanzada\LAB\LabNo.5_SergioCardona_1222419\Solitario_SergioCardona_1222419\Solitario_SergioCardona_1222419\Solitario_SergioCardona_1222419.cpp(72,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\chejo\Desktop\SergioU\SegundoCiclo2022\PrograAvanzada\LAB\LabNo.5_SergioCardona_1222419\Solitario_SergioCardona_1222419\Solitario_SergioCardona_1222419\Solitario_SergioCardona_1222419.cpp(109,19): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\chejo\Desktop\SergioU\SegundoCiclo2022\PrograAvanzada\LAB\LabNo.5_SergioCardona_1222419\Solitario_SergioCardona_1222419\Solitario_SergioCardona_1222419\Solitario_SergioCardona_1222419.cpp(111,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\chejo\Desktop\SergioU\SegundoCiclo2022\PrograAvanzada\LAB\LabNo.5_SergioCardona_1222419\Solitario_SergioCardona_1222419\Solitario_SergioCardona_1222419\Solitario_SergioCardona_1222419.cpp(118,27): error C2660: 'nuevo_vector': la función no acepta 1 argumentos
+C:\Users\chejo\Desktop\SergioU\SegundoCiclo2022\PrograAvanzada\LAB\LabNo.5_SergioCardona_1222419\Solitario_SergioCardona_1222419\Solitario_SergioCardona_1222419\Solitario_SergioCardona_1222419.cpp(55,6): message : vea la declaración de 'nuevo_vector'
+C:\Users\chejo\Desktop\SergioU\SegundoCiclo2022\PrograAvanzada\LAB\LabNo.5_SergioCardona_1222419\Solitario_SergioCardona_1222419\Solitario_SergioCardona_1222419\Solitario_SergioCardona_1222419.cpp(126,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\chejo\Desktop\SergioU\SegundoCiclo2022\PrograAvanzada\LAB\LabNo.5_SergioCardona_1222419\Solitario_SergioCardona_1222419\Solitario_SergioCardona_1222419\Solitario_SergioCardona_1222419.cpp(244,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\chejo\Desktop\SergioU\SegundoCiclo2022\PrograAvanzada\LAB\LabNo.5_SergioCardona_1222419\Solitario_SergioCardona_1222419\Solitario_SergioCardona_1222419\Solitario_SergioCardona_1222419.cpp(248,55): warning C4267: 'argumento': conversión de 'size_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
